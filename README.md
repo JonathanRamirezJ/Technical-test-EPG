@@ -13,8 +13,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ### How do I get set up?
 
 - `npm install` - Install all dependecies.
-- `npm run dev` - Run app development mode in [localhost:3003](http://localhost:3000).
+- `npm run dev` - Run app development mode in [localhost:3001](http://localhost:3001).
 - `npm run build` - Create a distribution build.
+- `npm run test` - Run all test.
 
 ### Who do I talk to?
 
