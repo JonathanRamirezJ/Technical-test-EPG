@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+    "button": "Mostrar EPG"
+  },
+  "404": {
+    "title": "Oops!",
+    "subtitle": "Lo sentimos, ha ocurrido un error inesperado.",
+    "button": "Reintentar"
+  },
+  "texts": {
+    "notFoundTitle": "Titulo no disponible",
+    "notFoundDescription": "Descripción no disponible",
+    "titleDay": "Hoy"
+  }
+}
